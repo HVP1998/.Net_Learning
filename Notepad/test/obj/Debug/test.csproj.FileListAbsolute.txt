@@ -1,0 +1,6 @@
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\bin\Debug\test.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\bin\Debug\test.exe
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\bin\Debug\test.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\obj\Debug\test.exe
+D:\VS_Project\BiliBili\0505.Net基础班\Notepad\test\obj\Debug\test.pdb
