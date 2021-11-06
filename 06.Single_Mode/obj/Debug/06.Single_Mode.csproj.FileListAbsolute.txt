@@ -1,0 +1,12 @@
+D:\VS_Project\BiliBili\01test\06.Single_Mode\bin\Debug\06.Single_Mode.exe.config
+D:\VS_Project\BiliBili\01test\06.Single_Mode\bin\Debug\06.Single_Mode.exe
+D:\VS_Project\BiliBili\01test\06.Single_Mode\bin\Debug\06.Single_Mode.pdb
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\06.Single_Mode.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\_06.Single_Mode.Form1.resources
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\_06.Single_Mode.Form2.resources
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\_06.Single_Mode.Form3.resources
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\_06.Single_Mode.Properties.Resources.resources
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\06.Single_Mode.csproj.GenerateResource.cache
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\06.Single_Mode.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\06.Single_Mode.exe
+D:\VS_Project\BiliBili\01test\06.Single_Mode\obj\Debug\06.Single_Mode.pdb

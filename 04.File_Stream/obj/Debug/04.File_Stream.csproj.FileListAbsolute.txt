@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\01test\04.File_Stream\bin\Debug\04.File_Stream.exe.config
+D:\VS_Project\BiliBili\01test\04.File_Stream\bin\Debug\04.File_Stream.exe
+D:\VS_Project\BiliBili\01test\04.File_Stream\bin\Debug\04.File_Stream.pdb
+D:\VS_Project\BiliBili\01test\04.File_Stream\obj\Debug\04.File_Stream.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\01test\04.File_Stream\obj\Debug\04.File_Stream.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\01test\04.File_Stream\obj\Debug\04.File_Stream.exe
+D:\VS_Project\BiliBili\01test\04.File_Stream\obj\Debug\04.File_Stream.pdb
