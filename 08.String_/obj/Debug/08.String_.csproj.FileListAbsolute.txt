@@ -1,7 +1,0 @@
-D:\VS_Project\BiliBili\01test\08.String_\bin\Debug\08.String_.exe.config
-D:\VS_Project\BiliBili\01test\08.String_\bin\Debug\08.String_.exe
-D:\VS_Project\BiliBili\01test\08.String_\bin\Debug\08.String_.pdb
-D:\VS_Project\BiliBili\01test\08.String_\obj\Debug\08.String_.csproj.AssemblyReference.cache
-D:\VS_Project\BiliBili\01test\08.String_\obj\Debug\08.String_.csproj.CoreCompileInputs.cache
-D:\VS_Project\BiliBili\01test\08.String_\obj\Debug\08.String_.exe
-D:\VS_Project\BiliBili\01test\08.String_\obj\Debug\08.String_.pdb
