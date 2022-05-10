@@ -1,0 +1,6 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\bin\Debug\11.推断类型.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\bin\Debug\11.推断类型.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\bin\Debug\11.推断类型.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\obj\Debug\11.推断类型.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\obj\Debug\11.推断类型.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\11.推断类型\obj\Debug\11.推断类型.pdb

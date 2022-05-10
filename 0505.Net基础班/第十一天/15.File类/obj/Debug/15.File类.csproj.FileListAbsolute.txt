@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\bin\Debug\15.File类.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\bin\Debug\15.File类.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\bin\Debug\15.File类.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\obj\Debug\15.File类.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\obj\Debug\15.File类.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\obj\Debug\15.File类.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\15.File类\obj\Debug\15.File类.pdb

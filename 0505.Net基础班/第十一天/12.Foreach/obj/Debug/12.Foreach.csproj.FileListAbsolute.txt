@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\bin\Debug\12.Foreach.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\bin\Debug\12.Foreach.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\bin\Debug\12.Foreach.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\obj\Debug\12.Foreach.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\obj\Debug\12.Foreach.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\obj\Debug\12.Foreach.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第十一天\12.Foreach\obj\Debug\12.Foreach.csproj.AssemblyReference.cache
