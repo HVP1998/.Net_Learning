@@ -1,7 +1,0 @@
-D:\VS_Project\BiliBili\01test\03.Model_Factory\obj\Debug\03.Model_Factory.csproj.AssemblyReference.cache
-D:\VS_Project\BiliBili\01test\03.Model_Factory\obj\Debug\03.Model_Factory.csproj.CoreCompileInputs.cache
-D:\VS_Project\BiliBili\01test\03.Model_Factory\bin\Debug\03.Model_Factory.exe.config
-D:\VS_Project\BiliBili\01test\03.Model_Factory\bin\Debug\03.Model_Factory.exe
-D:\VS_Project\BiliBili\01test\03.Model_Factory\bin\Debug\03.Model_Factory.pdb
-D:\VS_Project\BiliBili\01test\03.Model_Factory\obj\Debug\03.Model_Factory.exe
-D:\VS_Project\BiliBili\01test\03.Model_Factory\obj\Debug\03.Model_Factory.pdb
