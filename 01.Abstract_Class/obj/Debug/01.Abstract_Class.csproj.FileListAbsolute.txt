@@ -1,7 +1,0 @@
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\bin\Debug\01.Abstract_Class.exe.config
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\bin\Debug\01.Abstract_Class.exe
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\bin\Debug\01.Abstract_Class.pdb
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\obj\Debug\01.Abstract_Class.csproj.AssemblyReference.cache
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\obj\Debug\01.Abstract_Class.csproj.CoreCompileInputs.cache
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\obj\Debug\01.Abstract_Class.exe
-D:\VS_Project\BiliBili\01test\01.Abstract_Class\obj\Debug\01.Abstract_Class.pdb
