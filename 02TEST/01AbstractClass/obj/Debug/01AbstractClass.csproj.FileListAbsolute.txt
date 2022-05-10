@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\bin\Debug\01AbstractClass.exe.config
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\bin\Debug\01AbstractClass.exe
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\bin\Debug\01AbstractClass.pdb
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\obj\Debug\01AbstractClass.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\obj\Debug\01AbstractClass.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\obj\Debug\01AbstractClass.exe
+D:\VS_Project\BiliBili\02TEST\01AbstractClass\obj\Debug\01AbstractClass.pdb

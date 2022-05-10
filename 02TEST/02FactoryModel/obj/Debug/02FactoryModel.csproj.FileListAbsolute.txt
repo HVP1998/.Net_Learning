@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\bin\Debug\02FactoryModel.exe.config
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\bin\Debug\02FactoryModel.exe
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\bin\Debug\02FactoryModel.pdb
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\obj\Debug\02FactoryModel.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\obj\Debug\02FactoryModel.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\obj\Debug\02FactoryModel.exe
+D:\VS_Project\BiliBili\02TEST\02FactoryModel\obj\Debug\02FactoryModel.pdb

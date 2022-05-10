@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\02TEST\05Serilize\bin\Debug\05Serilize.exe.config
+D:\VS_Project\BiliBili\02TEST\05Serilize\bin\Debug\05Serilize.exe
+D:\VS_Project\BiliBili\02TEST\05Serilize\bin\Debug\05Serilize.pdb
+D:\VS_Project\BiliBili\02TEST\05Serilize\obj\Debug\05Serialize.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\02TEST\05Serilize\obj\Debug\05Serialize.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\02TEST\05Serilize\obj\Debug\05Serilize.exe
+D:\VS_Project\BiliBili\02TEST\05Serilize\obj\Debug\05Serilize.pdb

@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\02TEST\04FileCopy\bin\Debug\04FileCopy.exe.config
+D:\VS_Project\BiliBili\02TEST\04FileCopy\bin\Debug\04FileCopy.exe
+D:\VS_Project\BiliBili\02TEST\04FileCopy\bin\Debug\04FileCopy.pdb
+D:\VS_Project\BiliBili\02TEST\04FileCopy\obj\Debug\04FileCopy.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\02TEST\04FileCopy\obj\Debug\04FileCopy.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\02TEST\04FileCopy\obj\Debug\04FileCopy.exe
+D:\VS_Project\BiliBili\02TEST\04FileCopy\obj\Debug\04FileCopy.pdb
