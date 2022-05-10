@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\bin\Debug\01.File文件读写.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\bin\Debug\01.File文件读写.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\bin\Debug\01.File文件读写.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\obj\Debug\01.File文件读写.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\obj\Debug\01.File文件读写.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\obj\Debug\01.File文件读写.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第十二天\01.File文件读写\obj\Debug\01.File文件读写.pdb
