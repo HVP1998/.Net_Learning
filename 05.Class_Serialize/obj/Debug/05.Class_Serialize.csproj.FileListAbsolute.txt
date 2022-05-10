@@ -1,7 +1,0 @@
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\bin\Debug\05.Class_Serialize.exe.config
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\bin\Debug\05.Class_Serialize.exe
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\bin\Debug\05.Class_Serialize.pdb
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\obj\Debug\05.Class_Serialize.csproj.AssemblyReference.cache
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\obj\Debug\05.Class_Serialize.csproj.CoreCompileInputs.cache
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\obj\Debug\05.Class_Serialize.exe
-D:\VS_Project\BiliBili\01test\05.Class_Serialize\obj\Debug\05.Class_Serialize.pdb
