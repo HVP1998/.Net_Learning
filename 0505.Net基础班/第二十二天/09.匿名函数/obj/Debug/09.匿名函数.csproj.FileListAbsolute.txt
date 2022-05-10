@@ -1,0 +1,6 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\bin\Debug\09.匿名函数.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\bin\Debug\09.匿名函数.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\bin\Debug\09.匿名函数.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\obj\Debug\09.匿名函数.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\obj\Debug\09.匿名函数.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\09.匿名函数\obj\Debug\09.匿名函数.pdb

@@ -1,0 +1,11 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\bin\Debug\02.单例模式.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\bin\Debug\02.单例模式.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\bin\Debug\02.单例模式.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\02.单例模式.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\_02.单例模式.Form1.resources
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\_02.单例模式.Form2.resources
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\_02.单例模式.Properties.Resources.resources
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\02.单例模式.csproj.GenerateResource.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\02.单例模式.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\02.单例模式.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\02.单例模式\obj\Debug\02.单例模式.pdb

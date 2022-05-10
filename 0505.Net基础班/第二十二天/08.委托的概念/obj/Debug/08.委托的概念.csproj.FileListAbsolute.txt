@@ -1,0 +1,6 @@
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\bin\Debug\08.委托的概念.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\bin\Debug\08.委托的概念.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\bin\Debug\08.委托的概念.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\obj\Debug\08.委托的概念.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\obj\Debug\08.委托的概念.exe
+D:\VS_Project\BiliBili\0505.Net基础班\第二十二天\08.委托的概念\obj\Debug\08.委托的概念.pdb
