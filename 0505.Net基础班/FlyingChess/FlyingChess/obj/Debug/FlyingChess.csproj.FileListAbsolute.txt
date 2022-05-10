@@ -1,0 +1,7 @@
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\bin\Debug\FlyingChess.exe.config
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\bin\Debug\FlyingChess.exe
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\bin\Debug\FlyingChess.pdb
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\obj\Debug\FlyingChess.csproj.AssemblyReference.cache
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\obj\Debug\FlyingChess.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\obj\Debug\FlyingChess.exe
+D:\VS_Project\BiliBili\0505.Net基础班\FlyingChess\FlyingChess\obj\Debug\FlyingChess.pdb
