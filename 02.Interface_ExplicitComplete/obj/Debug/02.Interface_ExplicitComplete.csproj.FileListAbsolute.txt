@@ -1,7 +1,0 @@
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\bin\Debug\02.Interface_ExplicitComplete.exe.config
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\bin\Debug\02.Interface_ExplicitComplete.exe
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\bin\Debug\02.Interface_ExplicitComplete.pdb
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\obj\Debug\02.Interface_ExplicitComplete.csproj.AssemblyReference.cache
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\obj\Debug\02.Interface_ExplicitComplete.csproj.CoreCompileInputs.cache
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\obj\Debug\02.Interface_ExplicitComplete.exe
-D:\VS_Project\BiliBili\01test\02.Interface_ExplicitComplete\obj\Debug\02.Interface_ExplicitComplete.pdb
