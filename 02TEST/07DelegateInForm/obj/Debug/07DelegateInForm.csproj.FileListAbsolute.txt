@@ -1,0 +1,10 @@
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\bin\Debug\07DelegateInForm.exe.config
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\bin\Debug\07DelegateInForm.exe
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\bin\Debug\07DelegateInForm.pdb
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\_07DelegateInForm.Form1.resources
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\_07DelegateInForm.Form2.resources
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\_07DelegateInForm.Properties.Resources.resources
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\07DelegateInForm.csproj.GenerateResource.cache
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\07DelegateInForm.csproj.CoreCompileInputs.cache
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\07DelegateInForm.exe
+D:\VS_Project\BiliBili\02TEST\07DelegateInForm\obj\Debug\07DelegateInForm.pdb
