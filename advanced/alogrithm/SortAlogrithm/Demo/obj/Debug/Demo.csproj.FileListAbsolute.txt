@@ -1,0 +1,7 @@
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\bin\Debug\Demo.exe.config
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\bin\Debug\Demo.exe
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\bin\Debug\Demo.pdb
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\obj\Debug\Demo.exe
+D:\VS_Project\alogrithm\SortAlogrithm\Demo\obj\Debug\Demo.pdb

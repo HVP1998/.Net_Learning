@@ -1,0 +1,7 @@
+D:\VS_Project\jianzhi\test\01剪绳子\bin\Debug\01剪绳子.exe.config
+D:\VS_Project\jianzhi\test\01剪绳子\bin\Debug\01剪绳子.exe
+D:\VS_Project\jianzhi\test\01剪绳子\bin\Debug\01剪绳子.pdb
+D:\VS_Project\jianzhi\test\01剪绳子\obj\Debug\01剪绳子.csproj.AssemblyReference.cache
+D:\VS_Project\jianzhi\test\01剪绳子\obj\Debug\01剪绳子.csproj.CoreCompileInputs.cache
+D:\VS_Project\jianzhi\test\01剪绳子\obj\Debug\01剪绳子.exe
+D:\VS_Project\jianzhi\test\01剪绳子\obj\Debug\01剪绳子.pdb
